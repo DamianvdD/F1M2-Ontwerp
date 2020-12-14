@@ -1,0 +1,17 @@
+body {
+    font-family: "Raleway", sans-serif;
+    background-color: darkgrey;
+}
+.container {
+    width: 100%;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    align-items: center;
+}
+image {
+    width: 100%;
+}
